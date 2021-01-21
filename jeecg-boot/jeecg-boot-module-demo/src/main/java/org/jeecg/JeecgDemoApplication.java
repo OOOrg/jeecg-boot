@@ -1,4 +1,3 @@
-/*
 package org.jeecg;
 
 import org.springframework.boot.SpringApplication;
@@ -13,4 +12,3 @@ public class JeecgDemoApplication {
         SpringApplication.run(JeecgDemoApplication.class, args);
     }
 }
-*/
